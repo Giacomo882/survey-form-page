@@ -17,3 +17,7 @@ div{
     border: 3px solid rgb(80, 54, 15);
     padding: 10px;
 }
+#comments{
+    margin: auto;
+  width: 100%;
+}
