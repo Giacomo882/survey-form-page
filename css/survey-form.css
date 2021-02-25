@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(233, 199, 138);
+}
+h1{
+    text-align: center;
+    margin: auto;
+}
+p{
+    text-align: center;
+    background-color: rgb(167, 146, 79);
+}
+
+div{
+    background-color: rgb(245,222,179);
+    margin: auto;
+    width: 25%;
+    border: 3px solid rgb(80, 54, 15);
+    padding: 10px;
+}
